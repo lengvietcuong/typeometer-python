@@ -6,7 +6,7 @@ A Python program that measures your typing speed and accuracy.
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/lengvietcuong/Typeometer.git
+git clone https://github.com/lengvietcuong/typeometer-python.git
 ```
 Install requirements using
 ```bash
