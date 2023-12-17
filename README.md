@@ -1,4 +1,4 @@
-# Typeometer - Typing Speed Test
+# Typeometer - Typing Test
 A Python program that measures your typing speed and accuracy.
 
 ---
@@ -33,7 +33,7 @@ To visualize your statistics, run `graph_stats.py`
 
 ---
 
-200 texts have been preinstalled, including excerpts from books, TV shows, quotes, etc.
+250 texts have been preinstalled, including excerpts from books, TV shows, quotes, etc.
 
 To add more texts, run `add_texts.py`.
 
